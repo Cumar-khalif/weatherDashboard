@@ -1,2 +1,2 @@
 # weatherDashboard
-Weather Dashboard help me plan for my day to day life for looking at the weather forecast and planning it accordingly.
+Weather Dashboard help me plan for my day to day life by looking at the weather forecast for the next 5 days and planning it accordingly.
